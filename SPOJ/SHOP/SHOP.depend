@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1548621945 source:i:\all problem solving\spoj\shop\main.cpp
+	<cstdio>
+	<iostream>
+	<string>
+	<cstdlib>
+	<queue>
+	<stack>
+	<utility>
+	<string>
+	<cstring>
+	<set>
+	<cmath>
+	<vector>
+	<fstream>
+	<map>
+	<list>
+	<algorithm>
+

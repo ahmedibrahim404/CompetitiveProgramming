@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549144363 source:i:\all problem solving\spoj\highways\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
