@@ -3,3 +3,10 @@
 /CF Contests/*/*/*.cbp
 /CF Contests/*/*/*.depend
 /CF Contests/*/*/*.layout
+
+
+/UVA/*/bin
+/UVA/*/obj
+/UVA/*/*.cbp
+/UVA/*/*.depend
+/UVA/*/*.layout
