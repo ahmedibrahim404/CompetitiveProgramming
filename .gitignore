@@ -10,3 +10,9 @@
 /UVA/*/*.cbp
 /UVA/*/*.depend
 /UVA/*/*.layout
+
+/EOI/*/*/.vscode
+/EOI/*/*/bin
+/EOI/*/*/include
+/EOI/*/*/lib
+/EOI/*/*/Makerfile
