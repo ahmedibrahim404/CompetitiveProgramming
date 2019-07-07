@@ -1,3 +1,9 @@
+/*
+binary search on certain value and check if you can form k or more groups with minimum and-ing that value
+if can binary search ( mid+1, r ) 
+can't binary search ( l, mid-1 )
+*/
+
 #include<bits/stdc++.h>
 
 using namespace std;
