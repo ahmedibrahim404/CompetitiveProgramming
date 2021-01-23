@@ -1,18 +1,5 @@
-/CF Contests/*/*/bin
-/CF Contests/*/*/obj
-/CF Contests/*/*/*.cbp
-/CF Contests/*/*/*.depend
-/CF Contests/*/*/*.layout
-
-
-/UVA/*/bin
-/UVA/*/obj
-/UVA/*/*.cbp
-/UVA/*/*.depend
-/UVA/*/*.layout
-
-/EOI/*/*/.vscode
-/EOI/*/*/bin
-/EOI/*/*/include
-/EOI/*/*/lib
-/EOI/*/*/Makerfile
+*
+!*.cpp
+!*/
+!.gitignore
+!README.md
