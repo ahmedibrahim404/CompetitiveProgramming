@@ -15,7 +15,7 @@ bool solve()
 	    flip2[j]=0;
 		flip[j] = 0 ;
 		if(a[0][j] != b[0][j])
-			flip[j] = 1 ;
+			flip[j] = 1;
 	}
 	for(int j = 0 ; j < n ; ++j)
 	{
