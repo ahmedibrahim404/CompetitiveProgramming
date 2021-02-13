@@ -18,28 +18,22 @@ int main(){
             } else {
                 int no;
                 if(c1){
-                    if(!q.size()){
-                        c1=0;
-                        continue;
-                    }
-                    no=q.front();q.pop();
-                    if(no != b) c1=0;
+                    if(q.size()){
+                        no=q.front();q.pop();
+                        if(no != b) c1=0;
+                    } else c1=0;
                 }
                 if(c2){
-                    if(!st.size()){
-                        c2=0;
-                        continue;
-                    }
-                    no=st.top();st.pop();
-                    if(no != b) c2=0;
+                    if(st.size()){
+                        no=st.top();st.pop();
+                        if(no != b) c2=0;
+                    } else c2=0;
                 }
                 if(c3){
-                    if(!pq.size()){
-                        c3=0;
-                        continue;
-                    }
+                    if(pq.size()){
                     no=pq.top();pq.pop();
                     if(no != b) c3=0;
+                    } else c3=0;
                 }
 
 
